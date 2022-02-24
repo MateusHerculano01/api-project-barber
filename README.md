@@ -1,2 +1,2 @@
 # api-project-barber
-backend criado para projeto barberm api destinada a frontend tanto web como mobile.
+backend criado para projeto barber api destinada a frontend tanto web como mobile.
